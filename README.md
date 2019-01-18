@@ -58,6 +58,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [ARPIT KUMAR JAIN](https://github.com/arpitkekri)
 - [Vishisht Priyadarshi](https://github.com/vishishtpriyadarshi)
 - [Rohit Nandwani](https://github.com/nandwani-rohit)
+- [Jithin](https://github.com/codingcalling)
 
 
 # Phase 1 - 2018
@@ -106,4 +107,4 @@ This repository contains the resources that are discussed during the weekly meet
 - [Satish Agrahari](https://github.com/Satish124816)
 - [Anurag Kumar](https://github.com/iamANU)
 - [Kartikay Goel](https://github.com/krtky123)
-- [Jithin](https://github.com/codingcalling)
+
